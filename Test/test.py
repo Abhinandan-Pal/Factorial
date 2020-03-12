@@ -6,8 +6,7 @@ avg = 0
 def fact_1(set_a):
 	xy = set_a-1
 	x = set_a-1
-	y = 1
-	arr = []
+	y = 1	arr = []
 	while(x>=y):
 		val =  xy% set_a
 		#print(val)
